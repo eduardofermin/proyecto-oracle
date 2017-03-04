@@ -13,5 +13,11 @@
     </head>
     <body>
         <h1>Hello World!</h1>
+        <form action="autenticar" method="POST">
+            Usuario    <input type="text" name="usr" placeholder="login"/><br><br>
+            Contraseña <input type="text" name="psw" placeholder="password" /><br><br>
+            <input type="submit" values="Ingresar"/><br><br>
+           </form> 
+
     </body>
 </html>
