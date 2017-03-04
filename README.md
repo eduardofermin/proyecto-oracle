@@ -1,6 +1,6 @@
 # Proyecto final de base de datos II
-<p>este proyecto lo necesito hacer porque si no repruebo!</p>
+<p>Este proyecto lo necesito hacer porque si no repruebo!</p>
 ## Metodologia usada: SCRUM
 
-### Que es SCROM
-aqui vas a describir que es SCROM
+### Que es SCRUM
+Aqui vas a describir que es SCRUM
