@@ -2,6 +2,8 @@
 <p>Este proyecto lo necesito hacer porque si no repruebo!</p>
 ## Metodologia usada: SCRUM
 
+![scrum](http://www.itnove.com/sites/default/files/pictures/scrum_ES.png)
+
 ### Que es SCRUM
 Aqui vas a describir que es SCRUM
 
